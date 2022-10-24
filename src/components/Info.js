@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "../components/Button";
 import profilePic from "../assets/images/ben-sweet-unsplash.jpg";
 import "../index.css";
 
