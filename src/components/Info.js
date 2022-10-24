@@ -14,7 +14,7 @@ export default function Info() {
       <div className="info-bottom">
         <h1>Brandon Nielsen</h1>
         <h4>Front-End Web Developer</h4>
-        <a href="https://bnielsen.dev" target="_blank">
+        <a href="https://bnielsen.dev" target="_blank" rel="noreferrer">
           <small>bnielsen.dev</small>
         </a>
         <Button />

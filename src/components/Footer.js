@@ -8,13 +8,25 @@ export default function Footer() {
   return (
     <div className="footer">
       <div className="socials">
-        <a href="https://linkedin.com/in/bnielsencodes" target="_blank">
+        <a
+          href="https://linkedin.com/in/bnielsencodes"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src={linkedinIcon} alt="LinkedIn icon" />
         </a>
-        <a href="https://github.com/bnielsencodes" target="_blank">
+        <a
+          href="https://github.com/bnielsencodes"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img src={githubIcon} alt="GitHub icon" />
         </a>
-        <a href="https://twitter.com/bnielsencodes" target="_blank">
+        <a
+          href="https://twitter.com/bnielsencodes"
+          target="_blank"
+          rel="noreferrer"
+        >
           <img className="twitter" src={twitterIcon} alt="Twitter icon" />
         </a>
       </div>
