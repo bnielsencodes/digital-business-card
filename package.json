@@ -1,5 +1,5 @@
 {
-  "homepage": "http://bnielsencodes.github.io/digital-business-card",
+  "homepage": "https://bnielsencodes.github.io/digital-business-card",
   "name": "digital-business-card",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^0.9.3",
-    "web-vitals": "^2.1.4"
+    "react-scripts": "^0.9.3"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -29,7 +28,6 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
       "not op_mini all"
     ],
     "development": [
