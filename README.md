@@ -14,7 +14,7 @@
 
 #### Desktop
 
-![screenshot of Digital Business Card desktop website](src/assets/images/screenshots/desktop.png)
+![screenshot of Digital Business Card desktop website](src/assets/images/screenshots/desktop-updated.png)
 
 #### Mobile
 
