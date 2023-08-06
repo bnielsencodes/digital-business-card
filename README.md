@@ -1,7 +1,5 @@
 # Digital Business Card
 
-#### Scrimba React Course Project
-
 ## Table of Contents
 
 - [Overview](#overview)
