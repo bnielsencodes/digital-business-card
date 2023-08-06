@@ -1,10 +1,12 @@
-# Digital Business Card - Scrimba React Course Project
+# Digital Business Card
+
+#### Scrimba React Course Project
 
 ## Table of Contents
 
 - [Overview](#overview)
   - [Screenshots](#screenshots)
-  - [Links](#links)
+  - [Link](#link)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -20,22 +22,23 @@
 
 <img src="src/assets/images/screenshots/mobile.png" alt="screenshot of Digital Business Card mobile website" width="300">
 
-### Links
+### Link
 
-- Solution URL: [https://github.com/bnielsencodes/digital-business-card](https://github.com/bnielsencodes/digital-business-card)
-- Live Site URL: [https://bnielsen.dev/digital-business-card](https://bnielsen.dev/digital-business-card)
+- Live Site URL: [https://bnielsencodes.github.io/digital-business-card](https://bnielsencodes.github.io/digital-business-card)
 
 ### Built with
 
-- React
-- Create React App
-- Semantic HTML5 markup
-- Flexbox
-- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Create React App](https://create-react-app.dev/) - React Build Tool
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Semantic HTML5 markup](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Mobile-first workflow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- [VS Code](https://code.visualstudio.com/) - Integrated development environment
 
 ## Author
 
-- Website - [Brandon Nielsen](https://www.bnielsen.dev)
-- LinkedIn - [Brandon Nielsen](https://www.linkedin.com/in/bnielsencodes)
+- Portfolio Website - [bnielsen.dev](https://bnielsen.dev)
+- LinkedIn - [/in/bnielsencodes](https://linkedin.com/in/bnielsencodes)
 - Twitter - [@bnielsencodes](https://twitter.com/bnielsencodes)
 - Frontend Mentor - [@bnielsencodes](https://www.frontendmentor.io/profile/bnielsencodes)
